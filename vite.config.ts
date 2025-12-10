@@ -7,5 +7,5 @@ export default defineConfig({
   // PENTING: Ganti 'NAMA-REPOSITORY' dengan nama repository GitHub Anda persis.
   // Contoh: Jika link repo Anda github.com/fardian/nurse-portfolio, maka isi: '/nurse-portfolio/'
   // Jika salah, CSS dan JS tidak akan terbaca di website live.
-  base: '/NAMA-REPOSITORY/', 
+  base: '/Portfolio/', 
 })
